@@ -1,0 +1,6 @@
+﻿  Car.cpp
+  Train.cpp
+C:\Users\tlvla\source\repos\Car and Train\Car and Train\Train.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tlvla\source\repos\Car and Train\Car and Train\Train.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Car and Train.vcxproj -> C:\Users\tlvla\source\repos\Car and Train\Debug\Car and Train.exe
